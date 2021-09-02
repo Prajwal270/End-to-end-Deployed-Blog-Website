@@ -14,9 +14,9 @@
     "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
     "no_of_posts": 3,
     "login_image":"login.svg",
-    "admin_user":"harry",
-    "admin_password": "subscribenow",
-    "upload_location":"C:\\Users\\Haris\\PycharmProjects\\Flask-tut\\static"
+    "admin_user":"prajwalraj2709@gmail.com",
+    "admin_password": "YourPassword",
+    "upload_location":"C:\\Users\\praj\\PycharmProjects\\Flask-tut\\static"
 
 
   }
